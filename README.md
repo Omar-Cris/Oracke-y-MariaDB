@@ -1,1 +1,0 @@
-# Oracke-y-MariaDB
